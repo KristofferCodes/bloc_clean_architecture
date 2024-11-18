@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006010960150",
+    "project_id": "socialapptutorial-8ca57",
+    "storage_bucket": "socialapptutorial-8ca57.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006010960150:android:1bb655b231f8f63af8a837",
+        "android_client_info": {
+          "package_name": "app.kris.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC22lixCzsyvqW-gnT6fG25KCsvJV-HnJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
